@@ -5,4 +5,5 @@
 # OS
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2026%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Arch Linux ARM](https://img.shields.io/badge/Arch_Linux_ARM-1793D1?style=flat-square&logo=arch-linux&logoColor=ffffff)
 ![Android16](https://img.shields.io/badge/Android%2016-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
